@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
- Hello, I’m Nicollas, a Systems Analysis and Software Development student. from Brazil.
+ Hello, I’m Nicollas, a Systems Analysis and Software Development student from Brazil.
 
-  - 🌱 I am currently pursuing a degree in Systems Analysis and Development at UniAnchieta College..
+  - 🌱 I am currently pursuing a degree in Systems Analysis and Development at UniAnchieta College.
 
   - 🔭 I am seeking my first professional opportunity in the technology field, with a focus on Systems Development and Database Management.
 </p>
