@@ -13,6 +13,7 @@
   - 🔭 I am seeking my first professional opportunity in the technology field, with a focus on Systems Development and Database Management.
 </p>
 
+
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
@@ -34,10 +35,9 @@
 - 
 - 
 - 
-
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/c7b8d3fc-fbaf-4872-8bf3-89b5752e5bed" alt="Imagem">
 </p>
 
 ## 🔥 Skills
