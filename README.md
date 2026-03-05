@@ -30,7 +30,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- 
+- PCShop — Computer Hardware Store System | C#, .NET, SQL Server, JavaScript — 🚧 In Progress  
+  https://github.com/nicollaslopeslima/PCShop
 - 
 - 
 - 
