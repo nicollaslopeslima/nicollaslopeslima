@@ -34,7 +34,8 @@
   https://github.com/nicollaslopeslima/PCShop
 - SimpleCRUD — Basic CRUD Web Application | C#, .NET MVC, SQL Server — 🚧 In Progress
   https://github.com/nicollaslopeslima/CRUDMVC
-- 
+- WebAPI — Web API for Company & Game Management | C#, .NET, SQL Server — 🚧 In Progress
+  https://github.com/nicollaslopeslima/WebApi
 - 
 - 
 <!-- GIF -->
